@@ -6,6 +6,6 @@ js统计gitlab代码数量、提交次数、合并次数
 ## 说明
 前端JS代码写成的，基本上用的是原生的js代码，只有请求部分用了jq（已集成到页面），有兴趣者可以把请求也用原生js来写，文件的体积就会大大减小，无需额外引用其他资源。    
 # 界面如下：
-![image](http://github.com/cdacai/gitlabCodeStatistics/界面interface.png)
+![image](https://github.com/cdacai/gitlabCodeStatistics/raw/main/interface.png)
 
 
